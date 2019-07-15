@@ -226,10 +226,8 @@ void listaMenu(Sllist *l)
 			case '6':
 				system("cls");
 				if(sllDestroy(l) == TRUE){
-					free(l);
+					l = NULL;
 					printf("Lista destruida\n");
-				}else{
-                    printf("\nLista encontra-se com elementos\n");
 				}
 				break;
            // case '7':
