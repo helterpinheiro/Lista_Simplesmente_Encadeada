@@ -1,2 +1,10 @@
 # Lista_Simplesmente_Encadeada
-Lista simplesmente encadeada em C
+# Lista simplesmente encadeada desenvolvida em C com as seguintes operações:
+*Criar Lista
+*Destruir Lista
+*Inserir objeto
+*Remover objeto
+*Listar objetos
+*Procurar objeto
+*sair da lista
+
