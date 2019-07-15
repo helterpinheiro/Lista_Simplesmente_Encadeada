@@ -236,10 +236,10 @@ void listaMenu(Sllist *l)
                // system("cls");
                 //insetirDepoisSpec(l);
                 //break;
-			case '8':
+			case '7':
 				exit(0);
 			default:
-				if(opc!='8'){
+				if(opc!='7'){
 					printf("\nOpcao invalida, por favor redigite\n");
 				}
 			break;
